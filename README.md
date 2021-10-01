@@ -20,5 +20,5 @@ const nando = {
 
 ## How to reach me:
 
-[![EMAIL](https://i.ibb.co/HnQyrZb/Webp-net-resizeimage.png)](mailto:fatimada@yonsei.ac.kr) [![LINKEDIN](https://i.ibb.co/yfDDJ6g/Webp-net-resizeimage-3.png)](https://www.linkedin.com/in/fatima-dehghan-%ED%8C%8C%ED%8B%B0%EB%A7%88-a24491123)[![WHATSAPP](https://i.ibb.co/7QNdc8n/Webp-net-resizeimage-4.png)](+821089387292) [![TWITTER](https://i.ibb.co/9hkDBQg/Webp-net-resizeimage-2.png)](https://twitter.com/XFatiJanX) [![INSTAGRAM](https://i.ibb.co/6b00SHP/Webp-net-resizeimage-1.png)](https://www.instagram.com/fatimadhghn/) [![SKYPE](https://i.ibb.co/ch38wQf/Skype.png)](https://join.skype.com/invite/DeBPNJCTCDTb)
+[![EMAIL](https://i.ibb.co/5KTNt8B/Webp-net-resizeimage-5.png)](mailto:fatimada@yonsei.ac.kr) [![LINKEDIN](https://i.ibb.co/t3xnXTC/Webp-net-resizeimage-3.png)](https://www.linkedin.com/in/fatima-dehghan-%ED%8C%8C%ED%8B%B0%EB%A7%88-a24491123)[![WHATSAPP](https://i.ibb.co/82P25rn/Webp-net-resizeimage.png)](+821089387292) [![TWITTER](https://i.ibb.co/cJNxYJY/Webp-net-resizeimage-1.png)](https://twitter.com/XFatiJanX) [![INSTAGRAM](https://i.ibb.co/ZHfpFGc/Webp-net-resizeimage-4.png)](https://www.instagram.com/fatimadhghn/) [![SKYPE](https://i.ibb.co/tpnfkGr/Webp-net-resizeimage-2.png)](https://join.skype.com/invite/DeBPNJCTCDTb)
 
