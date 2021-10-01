@@ -4,7 +4,8 @@
 const nando = {
   bio: 'AI, Machine Learning, Computer Vision Developer based in Seoul, South Korea',
   code: ['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP'],
-  tools: ['vscode', 'PyCharm', 'Intellij Idea', 'Android Studio', 'MATLAB', 'Adobe Dreamweaver', 'Tensorflow', 'Keras', 'Pytorch' 'OpenCV', 'QT Designer'],
+  tools: ['vscode', 'PyCharm', 'Intellij Idea', 'Android Studio', 'MATLAB', 'Adobe Dreamweaver', 
+          'Tensorflow', 'Keras', 'Pytorch' 'OpenCV', 'QT Designer'],
   challenge: `100 Days of Code in Python`,
   more: [
     `I'm a PhD student at Yonsei University` 
