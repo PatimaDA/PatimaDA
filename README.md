@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Fatima DA 🧚🏻‍♀️
+# Hi there 👋 , I'm Fatima 🧚🏻‍♀️
 
 ```js
 const nando = {
