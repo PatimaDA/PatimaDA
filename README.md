@@ -2,7 +2,7 @@
 
 ```js
 const nando = {
-  bio: 'AI, Machine Learning, Computer Vision Developer based in Seoul, South Korea',
+  bio: 'AI, Machine Learning, Computer Vision PhD student based in Seoul, South Korea',
   code: ['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP'],
   tools: ['vscode', 'PyCharm', 'Intellij Idea', 'Android Studio', 'MATLAB', 'Adobe Dreamweaver', 
           'Tensorflow', 'Keras', 'Pytorch' 'OpenCV', 'QT Designer'],
