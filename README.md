@@ -21,9 +21,9 @@ const nando = {
 ## How to reach me:
 
 [![EMAIL](https://i.ibb.co/hMP6JNc/Webp-net-resizeimage.png)](mailto:fatimada@yonsei.ac.kr) 
-[![LINKEDIN](https://i.ibb.co/0nhpDR2/Webp-net-resizeimage-2.png)](https://www.linkedin.com/in/fatima-dehghan-%ED%8C%8C%ED%8B%B0%EB%A7%88-a24491123)
+[![LINKEDIN](https://i.ibb.co/0nhpDR2/Webp-net-resizeimage-2.png)](https://www.linkedin.com/in/patimada/)
 
-[![LINKEDIN](https://i.ibb.co/0nhpDR2/Webp-net-resizeimage-2.png)](https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67)
+[![LINKEDIN](https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67)](https://www.linkedin.com/in/patimada/)
 [![WHATSAPP](https://i.ibb.co/RcdjJxW/whatsapp.png)](https://api.whatsapp.com/send/?phone=821089387292&text&app_absent=0) 
 [![TWITTER](https://i.ibb.co/0BcNGqh/twitter.png)](https://twitter.com/XFatiJanX) 
 [![INSTAGRAM](https://i.ibb.co/w75L4J7/Webp-net-resizeimage-1.png)](https://www.instagram.com/fatimadhghn/)
