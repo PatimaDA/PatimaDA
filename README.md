@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Fatima 🧚🏻‍♀️
+# Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> , I'm Fatima 🧚🏻‍♀️
 
 ```js
 const nando = {
