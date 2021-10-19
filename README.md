@@ -20,12 +20,6 @@ const nando = {
 
 ## How to reach me:
 
-[![EMAIL](https://i.ibb.co/hMP6JNc/Webp-net-resizeimage.png)](mailto:fatimada@yonsei.ac.kr) 
-[![LINKEDIN](https://i.ibb.co/0nhpDR2/Webp-net-resizeimage-2.png)](https://www.linkedin.com/in/patimada/)
-
 [![LINKEDIN](https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67)](https://www.linkedin.com/in/patimada/)
-[![WHATSAPP](https://i.ibb.co/RcdjJxW/whatsapp.png)](https://api.whatsapp.com/send/?phone=821089387292&text&app_absent=0) 
-[![TWITTER](https://i.ibb.co/0BcNGqh/twitter.png)](https://twitter.com/XFatiJanX) 
-[![INSTAGRAM](https://i.ibb.co/w75L4J7/Webp-net-resizeimage-1.png)](https://www.instagram.com/fatimadhghn/)
-[![SKYPE](https://i.ibb.co/HKgW9GY/Webp-net-resizeimage-3.png)](https://join.skype.com/invite/DeBPNJCTCDTb)
-
+[![TWITTER](https://camo.githubusercontent.com/df817070b3280ae1e89e90762888bdd9f26e078b73b4f25d6d4eb4c8d56a215b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f747769747465722e706e67)](https://twitter.com/XFatiJanX) 
+[![INSTAGRAM](https://camo.githubusercontent.com/006011b1867986aeca5e91558cb03943899ae9c38546b79ca803424c0a0f6ee4/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f696e7374616772616d2e706e67)](https://www.instagram.com/fatimadhghn/)
