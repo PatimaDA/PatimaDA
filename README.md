@@ -3,7 +3,7 @@
 ```js
 const nando = {
   bio: 'AI, Machine Learning, Computer Vision PhD student based in Seoul, South Korea',
-  code: ['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP'],
+  code: ['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP', 'LATEX'],
   tools: ['vscode', 'PyCharm', 'Intellij Idea', 'Android Studio', 'MATLAB', 'Adobe Dreamweaver', 
           'Tensorflow', 'Keras', 'Pytorch' 'OpenCV', 'QT Designer'],
   challenge: `100 Days of Code in Python`,
