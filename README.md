@@ -16,7 +16,7 @@ const skills =
   
   libraries :['Tensorflow', 'Keras', 'Pytorch', 'OpenCV', 'Numpy', 'Pandas', 'Sklearn', 'Seaborn', 'Matplotlib'],
   
-  databases :['Sqlite', 'MySql', 'Microsoft SQL Server'],
+  databases :['Sqlite', 'MySql', 'Microsoft SQL Server']
 }
 
 const nando = 
