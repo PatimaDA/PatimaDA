@@ -1,20 +1,34 @@
 # Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> , I'm Fatima 🧚🏻‍♀️
 
 ```js
+var status = 
+{ 
+  learning : [Magnetic resonance imaging (MRI)],
+  interests: [Medical Imaging]
+}
+
+const skills = 
+{
+  languages :['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP', 'LATEX'],
+  
+  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, 'Intellij Idea', 'MATLAB', 'QT Designer', 'Adobe Dreamweaver'],
+  
+  libraries :['Tensorflow', 'Keras', 'Pytorch' 'OpenCV', Numpy, Pandas, Sklearn, Seaborn, Matplotlib],
+  
+  databases :[Sqlite3, MySql, Microsoft SQL Server],
+}
+
 const nando = {
-  bio: 'AI, Machine Learning, Computer Vision PhD student based in Seoul, South Korea',
-  code: ['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP', 'LATEX'],
-  tools: ['vscode', 'PyCharm', 'Intellij Idea', 'Android Studio', 'MATLAB', 'Adobe Dreamweaver', 
-          'Tensorflow', 'Keras', 'Pytorch' 'OpenCV', 'QT Designer'],
+  bio: 'a current PhD student and researcher at Yonsei University majoring in Electronic & Electrical Engineering.',
+  
   challenge: `100 Days of Code in Python`,
+  
   more: [
-    `I'm a PhD student at Yonsei University` 
     `I'm a passionate developer and a pianist who is drinking all coffee in Seoul, Korea`,
     `You can talk to me in English, Persian, Turkish and Korean`,
     `Currently, I'm learning many cool things on Coursera`,
     `Ask me about anything, I am happy to help :)`,
-    `Things I can't live without: ofcourse O2 plus learning new things every day`,
-  ]
+     ]
 }
 ```
 
