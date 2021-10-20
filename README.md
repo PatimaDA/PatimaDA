@@ -3,8 +3,8 @@
 ```js
 var status = 
 { 
-  learning : [Magnetic resonance imaging (MRI)],
-  interests: [Medical Imaging]
+  learning : ['Magnetic resonance imaging (MRI)'],
+  interests: ['Medical Imaging']
 }
 
 const skills = 
