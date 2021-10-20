@@ -19,7 +19,8 @@ const skills =
   databases :['Sqlite', 'MySql', 'Microsoft SQL Server'],
 }
 
-const nando = {
+const nando = 
+{
   bio: 'a current PhD student and researcher at Yonsei University majoring in Electronic & Electrical Engineering.',
   
   challenge: `100 Days of Code in Python`,
