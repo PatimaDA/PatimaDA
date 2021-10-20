@@ -3,19 +3,19 @@
 ```js
 var status = 
 { 
-  learning : ['Magnetic resonance imaging (MRI)'],
-  interests: ['Medical Imaging']
+  learning : [Magnetic resonance imaging (MRI)],
+  interests: [Medical Imaging]
 }
 
 const skills = 
 {
-  languages :['Python', 'JAVA', 'MATLAB', 'C/C++', 'HTML', 'CSS', 'PHP', 'LATEX'],
+  languages :[Python, JAVA, MATLAB, C/C++, HTML, CSS, PHP, LATEX],
   
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, 'Intellij Idea', 'MATLAB', 'QT Designer', 'Adobe Dreamweaver'],
+  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Intellij Idea, MATLAB, QT Designer, Adobe Dreamweaver],
   
-  libraries :['Tensorflow', 'Keras', 'Pytorch' 'OpenCV', Numpy, Pandas, Sklearn, Seaborn, Matplotlib],
+  libraries :[Tensorflow, Keras, Pytorch, OpenCV, Numpy, Pandas, Sklearn, Seaborn, Matplotlib],
   
-  databases :[Sqlite3, MySql, Microsoft SQL Server],
+  databases :[Sqlite, MySql, Microsoft SQL Server],
 }
 
 const nando = {
