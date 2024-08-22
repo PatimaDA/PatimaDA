@@ -21,7 +21,7 @@ const skills =
 
 const nando = 
 {
-  bio: 'a current PhD student and researcher at Yonsei University majoring in Electronic & Electrical Engineering.',
+  bio: 'a current master student and researcher at University of Victoria majoring in Mechanical Engineering.',
   
   challenge: `100 Days of Code in Python`,
   
