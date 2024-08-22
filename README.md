@@ -26,7 +26,7 @@ const nando =
   challenge: `100 Days of Code in Python`,
   
   more: [
-    `I'm a passionate developer and a pianist who is drinking all coffee in Seoul, Korea`,
+    `I'm a passionate developer and a pianist who is drinking all coffee in Victoria, BC`,
     `You can talk to me in English, Persian, Turkish and Korean`,
     `Currently, I'm learning many cool things on Coursera`,
     `Ask me about anything, I am happy to help :)`,
